@@ -1,5 +1,11 @@
 # CRNA starter
-CRNA starter with React Redux, React Navigation, and some basic setup ready
+[CRNA](https://github.com/react-community/create-react-native-app/) starter for hacking even faster and productive
+
+# What's included
+- [React Redux](https://github.com/reactjs/react-redux) for state management
+- [React Navigation](https://github.com/react-community/react-navigation) for navigation
+- [React Native App Intro](https://github.com/FuYaoDe/react-native-app-intro) for on-boarding introduction
+- and some basic setup
 
 # Screenshots
 <p align="center">
