@@ -2,6 +2,7 @@
   "expo": {
     "name": "CRNA starter",
     "slug": "crna-starter",
+    "privacy": "public",
     "icon": "./src/assets/logo.png",
     "loading": {
       "hideExponentText": true,
