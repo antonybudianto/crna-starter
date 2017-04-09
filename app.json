@@ -2,6 +2,7 @@
   "expo": {
     "name": "CRNA starter",
     "slug": "crna-starter",
+    "description": "A starter for hacking CRNA faster",
     "privacy": "public",
     "icon": "./src/assets/logo.png",
     "loading": {
