@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "CRNA starter",
+    "slug": "crna-starter",
+    "icon": "./src/assets/logo.png",
+    "loading": {
+      "hideExponentText": true,
+      "icon": "./src/assets/logo.png"
+    },
+    "sdkVersion": "15.0.0"
+  }
+}
